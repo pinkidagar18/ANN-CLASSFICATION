@@ -38,7 +38,7 @@ The model achieves approximately **86% accuracy** on the validation set and is d
 
 ## 🏗️ Project Architecture
 
-![Project Architecture](images\architecture_diagram.png)
+![Project Architecture](images/architecture_diagram.png)
 
 The project follows a complete end-to-end machine learning pipeline:
 
@@ -191,7 +191,7 @@ customer-churn-prediction/
 
 ### Sample Prediction
 
-![Sample Prediction](images\prediction_page.png)
+![Sample Prediction](images/prediction_page.png)
 
 
 ## 🔧 Troubleshooting & Common Errors
