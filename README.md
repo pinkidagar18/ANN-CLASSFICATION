@@ -388,11 +388,4 @@ For questions, feedback, or collaboration opportunities, please reach out:
 
 ---
 
-## 📚 Additional Resources
-
-- [TensorFlow Documentation](https://www.tensorflow.org/)
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [Customer Churn Analysis Guide](https://example.com)
-- [Deep Learning Best Practices](https://example.com)
-
 ---
